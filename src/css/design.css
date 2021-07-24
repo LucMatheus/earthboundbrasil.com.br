@@ -51,6 +51,10 @@ a.linksOrigem {
 #redesSociais ul li{
     display: inline;
 }
+.Alerta {
+    background-color: pink;
+    color: darkred;
+} 
 /* Para computadores */
 @media only screen and (min-width:800px) {
     body {
