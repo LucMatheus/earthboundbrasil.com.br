@@ -1,5 +1,3 @@
-document.getElementsByName('btnCopiarRSS')[0].addEventListener('click',copiarFeedRSS);
-
 function mostrarCopyrightNoRodapé() {
     var paragrafo = document.querySelector('footer p#copyright');
     var ano = new Date();
